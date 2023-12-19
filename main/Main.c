@@ -123,6 +123,4 @@ void app_main(void)
     READ_MODULE_INFOR();
     vTaskDelay(2000 / portTICK_PERIOD_MS);
     }
-    
-
 }

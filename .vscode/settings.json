@@ -14,7 +14,8 @@
     "idf.pythonBinPathWin": "C:\\Users\\admin\\.espressif\\python_env\\idf4.3_py3.8_env\\Scripts\\python.exe",
     "idf.toolsPathWin": "C:\\Users\\admin\\.espressif",
     "files.associations": {
-        "devicecode.h": "c"
+        "devicecode.h": "c",
+        "uart.h": "c"
     },
     "git.ignoreLimitWarning": true
 }
