@@ -101,7 +101,7 @@ void READ_MODULE_INFOR()
     uint8_t byteArray[] = {0xAA, 0x55, 0x02, _READ_INFOR_MODULE, 0x00, CHECKSUM_CRC(CheckSum, sizeof(CheckSum)), 0x5A};
     sendByte(TX_TASK_TAG, byteArray, sizeof(byteArray));
 }
-void READ_MODULE_INFOR2123()
+void READ_MODULE_RUNNING_INFOR()
 {
     static const char *TX_TASK_TAG = "READ_MODULE_INFOR";
     esp_log_level_set(TX_TASK_TAG, ESP_LOG_INFO);
