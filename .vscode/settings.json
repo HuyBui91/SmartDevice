@@ -15,7 +15,18 @@
     "idf.toolsPathWin": "C:\\Users\\admin\\.espressif",
     "files.associations": {
         "devicecode.h": "c",
-        "uart.h": "c"
+        "uart.h": "c",
+        "string.h": "c",
+        "*.inc": "c",
+        "esp_heap_caps.h": "c",
+        "gpio.h": "c",
+        "esp_wifi.h": "c",
+        "param.h": "c",
+        "esp_websocket_client.h": "c",
+        "err.h": "c",
+        "netdb.h": "c",
+        "freertos.h": "c"
     },
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "enabled"
 }

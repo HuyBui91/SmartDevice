@@ -68,4 +68,5 @@ C:/Users/admin/.espressif/Project/SmartDevice/ESP32Device/build/esp-idf/openssl/
 C:/Users/admin/.espressif/Project/SmartDevice/ESP32Device/build/esp-idf/spiffs/libspiffs.a
 C:/Users/admin/.espressif/Project/SmartDevice/ESP32Device/build/esp-idf/ulp/libulp.a
 C:/Users/admin/.espressif/Project/SmartDevice/ESP32Device/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
+C:/Users/admin/.espressif/Project/SmartDevice/ESP32Device/build/esp-idf/protocol_examples_common/libprotocol_examples_common.a
 C:/Users/admin/.espressif/Project/SmartDevice/ESP32Device/build/esp-idf/main/libmain.a
