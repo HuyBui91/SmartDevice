@@ -30,13 +30,7 @@
 #include "esp_eth.h"
 #include "Define/DeviceCode.h"
 #include "Define/FunctionDefine.h"
-#include <esp_log.h>
-#include <freertos/FreeRTOS.h>
-#include <freertos/task.h>
 #include <lwip/sockets.h>
-#include <string.h>
-#include "C:/Users/admin/esp/esp-idf/examples/common_components/protocol_examples_common/include/protocol_examples_common.h"
-#include "esp_log.h"
 #include "esp_websocket_client.h"
 #include "esp_event.h"
 #include "../../../../../esp/esp-idf/components/freertos/include/freertos/timers.h"

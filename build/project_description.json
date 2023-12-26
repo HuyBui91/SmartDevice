@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "ESP32Device",
-    "project_version":    "dd95762b-dirty",
+    "project_version":    "be3b1034-dirty",
     "project_path":       "C:/Users/admin/.espressif/Project/SmartDevice/ESP32Device",
     "idf_path":           "C:/Users/admin/esp/esp-idf",
     "build_dir":          "C:/Users/admin/.espressif/Project/SmartDevice/ESP32Device/build",
